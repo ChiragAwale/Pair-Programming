@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+The members are:
+a) Chirag Awale
+b) Suresh Ale Magar
