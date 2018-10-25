@@ -4,4 +4,8 @@
 
 layout: home
 ---
-hleo
+This is pair-programming process.
+
+The members are: 
+a) Chirag Awale
+b) Suresh Ale Magar
