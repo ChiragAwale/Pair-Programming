@@ -4,8 +4,11 @@
 
 layout: home
 ---
-This is pair-programming process.
 
-The members are: 
+The members are:
 a) Chirag Awale
+   Email: cawale@troy.edu
+   Github: chiragawale
 b) Suresh Ale Magar
+   Email: salemagar@troy.edu
+   Github: salemagar
