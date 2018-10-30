@@ -1,3 +1,11 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
+
+# Welcome
+
+
 To build using jekyll,
 
 Instructions:
