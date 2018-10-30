@@ -8,11 +8,11 @@ This is a simple blog site, built using Jekyll and using Gravity template which 
 
 Below, is a sample ruby snippet which jekyll suports too.
 {% highlight ruby %}
-def exampleFunction (name)
-  puts "Hi, #{name}"
+def exampleFunction (str)
+  puts "Hi, #{str}"
 end
-examplePrintFunction('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+examplePrintFunction('Test Blog site')
+#=> prints 'Hi, Test Blog Site' to STDOUT.
 {% endhighlight %}
 
 
