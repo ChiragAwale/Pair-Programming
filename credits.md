@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: page
 title: Credits
 permalink: /credits/
 tagline: "Credits"
