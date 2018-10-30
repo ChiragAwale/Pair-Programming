@@ -1,7 +1,10 @@
 ---
 layout: archive
-title: Science
-permalink: /science/
-tagline: "Humanity is overrated."
-category: "science"
+title: Credits
+permalink: /credits/
+tagline: "Credits"
+category: "Credits"
 ---
+
+Jekyll : http://jekyllrb.com
+hemangsk : http://hemangsk.github.io
