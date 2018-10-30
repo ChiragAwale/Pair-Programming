@@ -20,4 +20,4 @@ plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-gravity
+remote_theme: jekyll-theme-gravity
