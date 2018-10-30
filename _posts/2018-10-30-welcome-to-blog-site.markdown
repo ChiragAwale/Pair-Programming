@@ -6,11 +6,12 @@ categories: jekyll update
 ---
 This is a simple blog site, built using Jekyll and using Gravity template which is an open source template provided.
 
+Below, is a sample ruby snippet which jekyll suports too.
 {% highlight ruby %}
-def print_hi(name)
+def exampleFunction (name)
   puts "Hi, #{name}"
 end
-print_hi('Tom')
+examplePrintFunction('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
