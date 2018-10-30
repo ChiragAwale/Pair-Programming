@@ -20,3 +20,12 @@ plugins: [jekyll-paginate, kramdown]
 # Build settings
 markdown: kramdown
 remote_theme: gravity
+
+remote_theme: hemangsk/Gravity
+
+permalink:    /:year-:month-:day/:title
+paginate:     5
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
